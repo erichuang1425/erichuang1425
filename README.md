@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Eric 👋
 
-<!--
-**erichuang1425/erichuang1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools with a focus on clean UI, smooth workflow, and real-world use.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Browser extensions
+- Tab and workspace management tools
+- UI systems
+- AI-assisted workflows
+- Local AI setup and open-source models
+
+## Tech I use
+
+- JavaScript
+- TypeScript
+- React
+- Python
+- Git
+- VS Code
+
+## Current focus
+
+I am improving my projects, learning better software design, and building a stronger open-source portfolio.
+
+## Links
+
+- GitHub: https://github.com/erichuang1425
