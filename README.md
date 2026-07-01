@@ -2,8 +2,6 @@
 
 Aspiring computer scientist at UCL. I build open-source tools for local workflows, browser workspaces, desktop libraries, and small utilities that solve annoying everyday problems.
 
-Most of my projects start from a simple itch: too many tabs, hard-to-read forum threads, password-protected archives, scattered media folders, shortcut libraries that outgrow File Explorer. I care about tools that run locally, say what they store, and stay easy to inspect.
-
 ## Open-source work
 
 - [ForumForge](https://github.com/erichuang1425/ForumForge): browser tools for cleaner forum reading, local notes, saved comments, and custom adapters for older forum software.
