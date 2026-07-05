@@ -4,7 +4,7 @@ Aspiring computer scientist at UCL. I build open-source tools for local workflow
 
 ## Open-source work
 
-- [Tabento](https://github.com/erichuang1425/tabento): a Chromium new-tab workspace for saved tabs, notes, todos, reminders, and small personal trackers. No server, no account, no host permissions.
+- [Folio](https://github.com/erichuang1425/folio): a Chromium new-tab workspace for saved tabs, notes, todos, reminders, and small personal trackers. No server, no account, no host permissions.
 - [TeaStash](https://github.com/erichuang1425/teastash): a mobile-first PWA for tracking tea inventory, usage logs, expiry reminders, offline data, and optional Supabase sync.
 - [Game Library Manager](https://github.com/erichuang1425/Game-Library-Manager): a Windows desktop app for scanning game shortcuts, organizing collections, tracking versions, and finding broken entries.
 - [Extract with Passwords Extended](https://github.com/erichuang1425/extract-with-passwords-extended): a PowerShell and WPF archive workflow for batch password lists, Explorer actions, nested archives, and multi-engine fallback.
